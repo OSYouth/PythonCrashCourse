@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="腾讯云MySQL" uuid="c9154f59-a9d5-45e3-8b58-0dc8ea1640f1">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://41jktpwi.sql.tencentcdb.com:63055</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@localhost" uuid="f9fe22e5-17b9-4e46-9640-e2c534516ee0">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306?serverTimezone=GMT</jdbc-url>
+    </data-source>
+  </component>
+</project>
